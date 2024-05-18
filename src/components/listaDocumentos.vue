@@ -108,7 +108,6 @@ export default {
                 },
                 { text: 'Nombre Documento', value: 'doc_nombre' },
                 { text: 'Contenido Documento', value: 'doc_contenido' },
-                { text: 'Contenido Documento', value: 'doc_contenido' },
                 { text: 'Actions', value: 'actions', sortable: false },
 
             ],
