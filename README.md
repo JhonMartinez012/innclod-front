@@ -1,5 +1,5 @@
 # innclod-front
-
+Estos son los comandos a ejecutar para poder usar la aplicacion
 ## Project setup
 ```
 npm install
@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
